@@ -18,7 +18,8 @@ Green: Double your ship's current speed temporarily
 Backspace - Reset level
 Esc - Exit the game
 
-B.Innovation:
+B.Features:
+
 *Minimap
 
 *You cannot back out of the arena after you enter (Level triggers closes after player enters and turns into a collider. Can't go out
